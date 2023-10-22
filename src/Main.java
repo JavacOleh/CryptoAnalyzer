@@ -18,6 +18,7 @@ public class Main {
 
         c.PrintTextByLang("Welcome!","Добро пожаловать!");
 
+
         c.Swipe(5);
 
         while(s <= 9){
