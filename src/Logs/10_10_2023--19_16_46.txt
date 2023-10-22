@@ -1,0 +1,139 @@
+
+Enter only number/Вводите только цыфру
+Choose language/выберите язык
+Enter/Введите(цыфру/number):
+1) Russian/Русский
+2) English/Английский
+2
+Welcome!
+Please choose operation(Enter number of operation):
+1) Enter text for encrypt
+2) Protect text
+3) Open text by key(You must know key, key will be changed by your new.)
+4) Hack text
+5) Hack key
+6) Information about application
+7) Load text for encrypt from file
+8) Save protected and opened text in file
+9) Exit from application
+
+1
+ProtectWithoutKey_Text, text: Hello Anton, my name is Oleh and it is my application
+parseKey: 20
+Success
+: Rovvy Kxdyx, wi xkwo sc Yvor kxn sd sc wi kzzvsmkdsyx
+
+
+
+Press any key to continue.
+
+Please choose operation(Enter number of operation):
+1) Enter text for encrypt
+2) Protect text
+3) Open text by key(You must know key, key will be changed by your new.)
+4) Hack text
+5) Hack key
+6) Information about application
+7) Load text for encrypt from file
+8) Save protected and opened text in file
+9) Exit from application
+
+4
+onOpenConsole
+Success
+: Hello Anton, my name is Oleh and it is my application
+
+
+
+Press any key to continue.
+
+Please choose operation(Enter number of operation):
+1) Enter text for encrypt
+2) Protect text
+3) Open text by key(You must know key, key will be changed by your new.)
+4) Hack text
+5) Hack key
+6) Information about application
+7) Load text for encrypt from file
+8) Save protected and opened text in file
+9) Exit from application
+
+8
+onOpenFile
+Success
+!
+
+
+
+Press any key to continue.
+
+Please choose operation(Enter number of operation):
+1) Enter text for encrypt
+2) Protect text
+3) Open text by key(You must know key, key will be changed by your new.)
+4) Hack text
+5) Hack key
+6) Information about application
+7) Load text for encrypt from file
+8) Save protected and opened text in file
+9) Exit from application
+
+5
+onOpenConsole
+Success
+: 20
+
+
+
+Press any key to continue.
+
+Please choose operation(Enter number of operation):
+1) Enter text for encrypt
+2) Protect text
+3) Open text by key(You must know key, key will be changed by your new.)
+4) Hack text
+5) Hack key
+6) Information about application
+7) Load text for encrypt from file
+8) Save protected and opened text in file
+9) Exit from application
+
+6
+
+Thanks for your interest!
+Name: CryptoAnalyzer
+Version: beta 0.23(consoled)
+date of release: 08/10/2023
+Author: _Oleh.V_
+
+
+Thanks for your interest!
+Name: CryptoAnalyzer
+Version: beta 0.23(consoled)
+date of release: 08/10/2023
+Author: _Oleh.V_
+
+
+Press any key to continue.
+
+Please choose operation(Enter number of operation):
+1) Enter text for encrypt
+2) Protect text
+3) Open text by key(You must know key, key will be changed by your new.)
+4) Hack text
+5) Hack key
+6) Information about application
+7) Load text for encrypt from file
+8) Save protected and opened text in file
+9) Exit from application
+
+9
+Thank for choosing my application.
+Have a good day!
+
+
+
+
+Press any key to continue.
+
+

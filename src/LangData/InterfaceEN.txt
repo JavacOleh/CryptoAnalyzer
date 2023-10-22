@@ -1,0 +1,25 @@
+Please choose operation(Enter number of operation):
+1) Enter text for encrypt
+2) Protect text
+3) Open text by key(You must know key, key will be changed by your new.)
+4) Hack text
+5) Hack key
+6) Information about application
+7) Load text for encrypt from file
+8) Save protected and opened text in file
+9) Exit from application
+1M
+2M
+3M
+4M
+5M
+6M
+Thanks for your interest!
+Name: CryptoAnalyzer
+Version: beta 0.23(consoled)
+date of release: 08/10/2023
+Author: _Oleh.V_
+7M
+8M
+9M
+10M
